@@ -1,1 +1,1 @@
-\b(sc)\b|\b(sC)\b|\b(SC)\b|\b(S C)\b|\b(s c)\b|\b(s C)\b|\b(S c)\b	soi con
+\b(sc)\b|\b(sC)\b|\b(SC)\b|\b(S C)\b|\b(s c)\b|\b(s C)\b|\b(S c)\b	sói con
