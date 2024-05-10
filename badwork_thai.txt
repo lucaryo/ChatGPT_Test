@@ -1,5 +1,5 @@
-sc	sói con
-sbt?	sói báo thù
-stl	sói thủ lĩnh
-#	khác phe
-sp	sói pháp
+sc	<i>(sói con)</i>
+sbt?	<i>(sói báo thù)</i>
+stl	<i>(sói thủ lĩnh)</i>
+#	<i>(khác phe)</i>
+sp	<i>(sói pháp)</i>
