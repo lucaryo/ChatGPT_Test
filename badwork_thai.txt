@@ -1,1 +1,1 @@
-/sb/	soi con
+\b(sc)(s?)\b	soi con
