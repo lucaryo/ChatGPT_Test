@@ -1,5 +1,5 @@
-sc	<i>(sói con)</i>
-sbt?	<i>(sói báo thù)</i>
-stl	<i>(sói thủ lĩnh)</i>
-#	<i>(khác phe)</i>
-sp	<i>(sói pháp)</i>
+/sc/i	<i>(sói con)</i>
+/sbt?/i	<i>(sói báo thù)</i>
+/stl/i	<i>(sói thủ lĩnh)</i>
+/#/i	<i>(khác phe)</i>
+/sp/i	<i>(sói pháp)</i>
